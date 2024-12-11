@@ -67,10 +67,15 @@ This project is built with **Python** and its powerful libraries to analyze and 
 You can run the notebook to explore and test the model's capabilities.  
 Feel free to fork or clone the repo to contribute or experiment!
 
-## 👨‍💻 Author:
-Created by **Abhishek kumar**  
-📩📩Email:--> abhiydv23096@gmail.com
-🔗Linkedin:--> https://www.linkedin.com/in/abhishek-kumar-70a69829a/
-For any questions or contributions, feel free to reach out!  
+ 
+## 👨‍💻 Developer Information
+**Created by **Abhishek kumar** 
+**📧 Email**: [abhiydv23096@gmail.com](mailto:abhiydv23096@gmail.com)  
+**🔗 LinkedIn**: [Abhishek Kumar](https://www.linkedin.com/in/abhishek-kumar-70a69829a/)  
+**🐙 GitHub Profile**: [@abhishekkumar62000](https://github.com/abhishekkumar62000)  
+**📸 Developer Profile Image**:- <img src="![1722245359938 (1)-photoaidcom-cropped-removebg-preview-photoaidcom-cropped jpg](https://github.com/user-attachments/assets/31ddd1bd-ccd9-46a4-921b-139d381f6f01)" width="150" height="150" style="border-radius: 50%;" alt="Developer Photo">
+
+![1722245359938 (1)-photoaidcom-cropped-removebg-preview-photoaidcom-cropped jpg](https://github.com/user-attachments/assets/31ddd1bd-ccd9-46a4-921b-139d381f6f01)
+
 
 ---
